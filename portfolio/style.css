@@ -1,0 +1,53 @@
+
+
+body { 
+    background:aquamarine;
+    color:darkcyan; 
+}
+body{ 
+    font-size: 20px;
+    text-align:center;
+}
+.myname { color:cornflowerblue;}
+.welcome { 
+    width: 40%;
+    float: left;
+    margin: 5%;
+    height: 500px;
+}
+.welcome img{  
+    width: 80%;
+}
+
+ img { 
+    border-radius:  50%;
+    
+    ;
+} 
+.skill { 
+    
+    width: 40%;
+    float: left;
+    margin: 5%;
+
+     }
+
+     body { 
+        background:aquamarine;
+        color:darkcyan; 
+     }
+
+     input , textarea , select{ 
+         width: 40%;
+padding: 8px ;
+ border: none;
+ 
+     }
+     label{ 
+         padding: 8px;
+         display: inline-block;
+         width: 40%;
+     }
+     label{ 
+         text-align:justify ;
+     }
